@@ -1,4 +1,4 @@
-![Dashboard Screenshot](Screenshot 2026-04-29 140457.png)
+!(Screenshot 2026-04-29 140457.png)
 
 # Profitability & Discount Analysis Dashboard
 
