@@ -1,3 +1,5 @@
+![Dashboard Screenshot](Screenshot 2026-04-29 140457.png)
+
 # Profitability & Discount Analysis Dashboard
 
 ## Overview
@@ -35,5 +37,5 @@ This Power BI dashboard analyzes company profitability, discounts, and regional 
 
 ## Author
 
-Angela Ben-Ushie
+Angela Ben-Ushie  
 Aspiring Data Analyst | Business Analyst
